@@ -1,0 +1,500 @@
+﻿_id,accepted_answer_id,answer_count,comment_count,creation_date,favorite_count,owner_user_id,related_posts,score,tags,title,view_count
+7525,7695,12,0,2008-08-11T04:52:50.8,14,61,[5727],20,"[""c++"",""memory"",""stack"",""heap-memory""]","Of Memory Management, Heap Corruption, and C++",15325
+39567,9571767,12,0,2008-09-02T13:53:55.143,49,4142,[11856407],132,"[""ruby"",""arrays"",""hashmap""]",What is the best way to convert an array to a hash in Ruby,142747
+41039,78966,12,0,2008-09-03T01:49:04.27,23,952,[469732],102,"[""tfs"",""search"",""visual-studio-2008"",""code-search-engine""]",Find in Files: Search all code in Team Foundation Server,113164
+72899,73050,18,1,2008-09-16T14:27:47.47,613,12398,[5212870],2364,"[""python"",""sorting"",""dictionary"",""list"",""data-structures""]",How do I sort a list of dictionaries by a value of the dictionary?,967385
+97050,101980,8,1,2008-09-18T21:14:26.307,68,16496,[15559655],96,"[""c++"",""optimization"",""stl"",""stdmap""]",std::map insert or std::map find?,73639
+135361,,8,3,2008-09-25T19:15:59.347,6,,[1355956],26,"[""svn"",""shared""]",Subversion and shared files across repositories/projects?,18359
+153079,153203,9,1,2008-09-30T13:45:48.37,4,4206,[150339],5,"["".net"",""java"",""apache"",""ms-office"",""office-interop""]",How can I read MS Office files in a server without installing MS Office and without using the Interop Library?,5144
+202813,202854,25,5,2008-10-14T21:02:58.73,81,2025,[365615],612,"[""c#"",""arrays""]",Adding values to a C# array,2030713
+211143,211161,7,3,2008-10-17T05:14:15.96,67,2648,[30616864],168,"[""java"",""generics"",""enums"",""crtp""]",Java Enum definition,23504
+241899,266475,5,0,2008-10-28T00:54:02.79,,19799,[186631],1,"[""asp.net"",""ajax"",""json"",""web-services""]",How can you create an ASP.Net 2.0 web service that consumes and produces JSON objects?,1647
+273743,273776,16,0,2008-11-07T21:44:26.753,315,2476,[17282915],624,"[""shell"",""wget""]",Using wget to recursively fetch a directory with arbitrary files in it,842671
+292642,292738,3,1,2008-11-15T14:57:09.857,2,35513,[8891944],8,"[""css"",""styling"",""printing-web-page""]",Print Stylesheets for pages with long horizontal tables,13084
+340981,342821,3,0,2008-12-04T15:27:46.81,,34145,[25919083],1,"[""java"",""printing"",""swing""]",Send a JPanel to the printer,5921
+372453,372480,1,2,2008-12-16T19:47:38.34,1,7734,[308279],3,"[""c++"",""stl"",""vector""]",Populate a vector<int> from integers in a char *,946
+382997,383021,5,0,2008-12-20T06:13:30.55,3,22291,[15067300],7,"[""windows"",""asp.net"",""scheduled-tasks""]",How do you handle scheduled tasks for your websites running on IIS?,11180
+425158,425172,11,0,2009-01-08T17:30:17.323,145,5630,[3669121],625,"[""mysql"",""sql"",""database"",""mysqldump""]",Skip certain tables with mysqldump,382111
+454868,840720,23,4,2009-01-18T09:23:11.627,137,42124,[1828043],243,"["".net"",""wpf"",""design-patterns"",""dialog"",""mvvm""]",Handling Dialogs in WPF with MVVM,124079
+476426,476437,8,0,2009-01-24T18:12:35.2,12,58433,[1809494],43,"[""html"",""php"",""forms"",""checkbox""]",Submit an HTML form with empty checkboxes,77761
+484764,484809,8,0,2009-01-27T19:06:34.55,1,,[217980],2,"[""endianness""]",endianness theory and concept,1918
+499634,499659,17,0,2009-01-31T21:37:40.727,46,44522,[493311],73,"[""language-agnostic"",""debugging"",""multithreading""]",How to detect and debug multi-threading problems?,60472
+509711,509825,11,0,2009-02-04T01:06:05.827,26,91385,[7569436],154,"[""html"",""css""]",Why does overflow:hidden not work in a <td>?,154094
+523669,523677,1,0,2009-02-07T12:14:48.83,2,63229,[523405],6,"[""c#"",""irc"",""winapi""]",How to write and send text to mIRC in C#/Win32?,2688
+553922,553934,10,7,2009-02-16T16:37:04.92,55,22093,"[310580,12823520]",120,"[""asp.net"",""asp.net-mvc"",""custom-error-pages"",""asp.net-mvc-routing"",""http-status-code-404""]",Routing for custom ASP.NET MVC 404 Error page,162405
+580668,580690,4,0,2009-02-24T06:24:26.497,2,30946,[4824687],27,"[""sqlite"",""dblinq""]",How do I use a boolean field in a where clause in SQLite?,44183
+604399,604504,5,0,2009-03-02T22:48:25.003,72,72994,[880957],177,"[""git"",""version-control""]",how do you push only some of your local git commits?,73658
+649483,649500,11,1,2009-03-16T06:51:26.013,20,53839,"[3862619,5197446]",94,"[""generics"",""collections"",""objective-c"",""strong-typing"",""data-structures""]","Is there any way to enforce typing on NSArray, NSMutableArray, etc.?",41800
+669518,669553,3,0,2009-03-21T16:02:07.363,1,31770,"[576267,635719]",3,"["".net"",""rss"",""open-source""]",Open source RSS parser,809
+686309,,7,0,2009-03-26T15:37:18.147,0,,[1583351],8,"[""c#"",""datagridview"",""edit""]",DataGridView: Change Edit Control size while editing,14473
+710076,710144,7,0,2009-04-02T15:00:24.233,5,37147,[709617],12,"[""asp.net"",""resources"",""user-controls"",""web-applications"",""visual-studio-2008""]",How do I share user controls between web applications in ASP.NET?,8402
+729081,729096,1,0,2009-04-08T08:43:33.457,,77449,[575794],0,"[""iphone"",""cocoa-touch""]",iPhone - Why did all interface went a little bit down,159
+751163,751188,9,1,2009-04-15T11:01:05.32,,4653,[615173],3,"[""c#"",""visual-studio""]",Using visual studio 2008 and 2005 in one group,259
+759703,759733,9,1,2009-04-17T09:19:29.743,17,36860,[1875440],140,"[""c#"",""java"",""comments"",""interface""]","Comment the interface, implementation or both?",39852
+769045,769058,3,1,2009-04-20T16:30:38.65,3,93287,[756765],7,"[""c#"",""tcp"",""packets"",""mtu""]","When I send a packet over tcp, it is split into two packets",7641
+795286,795289,7,4,2009-04-27T21:07:33.407,23,95964,[5369770],86,"[""c++"",""operators"",""conditional-operator""]",What does the question mark character ('?') mean in C++?,243754
+800769,,6,1,2009-04-29T03:37:44.66,1,,[800849],3,"[""python"",""user-interface"",""python-3.x""]",About GUI editor that would be compatible with Python 3.0,1805
+840210,840526,4,0,2009-05-08T14:57:06.253,,71200,[522238],2,"[""c#"",""error-handling"",""exception"",""guard-clause""]",Guard Clause and Exception handling for the same condition,1211
+860524,,2,0,2009-05-13T21:28:12.26,3,14978,[542479],10,"[""version-control"",""mercurial"",""clearcase""]",Migrating from clearcase to mercurial,3089
+881639,881669,4,1,2009-05-19T08:50:15.387,,70350,[19009932],4,"[""python"",""debian""]",Python imports: importing a module without .py extension?,4005
+901045,901168,2,0,2009-05-23T07:04:47.417,11,67445,[519387],7,"[""c#"",""screen-scraping""]",Screen-scraping a site with a asp.net form login in C#?,6007
+921806,922419,2,3,2009-05-28T16:20:50.667,2,11529,[317450],8,"[""c++"",""struct""]",What's the point of this pattern: using a struct to contain a single method,427
+931344,931403,3,1,2009-05-31T05:06:16.847,1,89904,[904353],3,"[""git"",""version-control""]",Tracking other peoples projects with git,129
+944966,,3,1,2009-06-03T14:06:49.933,19,2759376,"[4802565,45602699]",52,"[""performance"",""x86"",""intel"",""multiprocessing"",""cpu-cache""]",How are cache memories shared in multicore Intel CPUs?,25319
+965301,965451,3,2,2009-06-08T14:58:24.397,3,2424,[9299267],3,"[""tfs"",""build-process""]",Build monitor for TFS 2008 build server,1608
+983289,983430,4,5,2009-06-11T19:58:59.83,3,65214,[661561],5,"["".net"",""multithreading"",""winforms""]",Update Winforms UI from background thread result,11678
+1005525,1005538,8,0,2009-06-17T07:12:50.03,1,41360,[531635],0,"[""bug-tracking""]","Can anyone suggest a small, simple and free bugtracker?",4277
+1036782,,2,0,2009-06-24T06:56:28.557,1,32262,[2749905],4,"[""html"",""browser""]",HTML form values and 'Back' button,2466
+1059580,1059619,6,3,2009-06-29T17:53:38.95,36,11236,[1070495],59,"[""java"",""timeout"",""locking"",""distributed-lock""]",Distributed Lock Service,35820
+1092330,,0,3,2009-07-07T13:27:47.243,,4639,[1092630],1,"[""wpf"",""animation"",""xaml"",""triggers""]",How can I make a XAML Trigger call a XAML Style?,1330
+1134578,1141334,3,1,2009-07-15T23:04:13.033,4,1942189,[3593683],10,"[""iphone"",""mpmovieplayercontroller""]",Next/Previous buttons on iPhone MPMoviePlayerController,10052
+1154734,1156906,2,0,2009-07-20T17:10:28.26,2,102937,[11779751],3,"[""c#"",""ajax"",""asp.net-mvc"",""json"",""callback""]",Is there a way to get upload progress using the HttpPostedFile class?,1733
+1176877,,4,1,2009-07-24T10:39:28.043,,,[389825],0,"[""iphone"",""cocoa-touch"",""iphone-softkeyboard""]",Disabling Keyboard,584
+1198260,1201902,20,6,2009-07-29T05:57:22.673,60,,[26902633],132,"[""c++"",""iteration"",""template-meta-programming"",""c++11"",""stdtuple""]",How can you iterate over the elements of an std::tuple?,97568
+1213089,1213133,6,0,2009-07-31T15:10:25.963,,128585,[1182452],2,"[""php"",""arrays""]",PHP Is there anyway I can simulate an array operator on the return value of a function,413
+1250062,1250305,3,1,2009-08-08T22:40:52.517,3,571,[9210281],20,"[""testing"",""unit-testing"",""xunit"",""xunit.net""]","In xUnit.net, is it possible to run tests in order?",9645
+1266014,1266042,11,2,2009-08-12T12:57:32.697,4,132756,"[674715,2837063]",29,"[""c#"",""generics"",""inheritance"",""casting"",""list""]",C# Casting a List<ObjBase> as List<Obj>,64317
+1327614,1327639,2,1,2009-08-25T11:17:13.39,1,162636,[3059719],4,"["".net"",""c#"",""sorting"",""algorithm"",""radix-sort""]",Any ready-made implementation of Radix Sort for C#?,5430
+1349076,1349114,1,0,2009-08-28T20:08:25.49,1,165074,[58538],1,"[""c#"",""uac"",""event-log"","".net-3.5""]",UAC gives me fits!,521
+1374720,1721944,4,0,2009-09-03T17:06:29.937,8,146366,[4599916],21,"[""jquery"",""jquery-ui"",""jquery-tools""]",Can JQuery UI and JQuery tools work together?,13526
+1420957,1427498,3,0,2009-09-14T11:19:15.03,8,166939,[38554126],26,"[""python"",""multithreading"",""process"",""embedded-language"",""python-c-api""]",Stopping embedded Python,6088
+1445238,1504596,4,4,2009-09-18T15:22:17.627,1,175603,[1138142],3,"[""sql"",""tsql"",""sql-server"",""vba""]",Inserting German date format in SQL using VBA,2546
+1487695,1487762,14,2,2009-09-28T15:27:17.95,42,37236,[361363],81,"[""c++"",""cross-platform"",""timer""]",C++ Cross-Platform High-Resolution Timer,79717
+1525764,16634045,14,4,2009-10-06T13:57:02.243,7,152508,[28922488],40,"[""c++"",""boost"",""shared-ptr""]",How to release pointer from boost::shared_ptr?,33427
+1538420,1538427,14,5,2009-10-08T15:04:33.983,297,105033,"[911860,4316696]",851,"[""c"",""malloc"",""calloc""]",Difference between malloc and calloc?,580685
+1559387,,2,3,2009-10-13T10:28:53.183,,,[1543422],0,"[""unix"",""scripting"",""awk"",""compare"",""sed""]","script,unix,compare",314
+1574336,1574491,3,2,2009-10-15T18:57:48.31,,47550,[595123],5,"[""sql"",""wmi"",""wmi-query"",""wql""]",WQL does not support TOP - need workaround,8448
+1603340,1622715,6,0,2009-10-21T20:18:05.263,30,181902,[622652],48,"[""django"",""view""]","Track the number of ""page views"" or ""hits"" of an object?",35984
+1620536,3486405,4,0,2009-10-25T10:20:47.423,2,19956,[1880714],5,"[""windows"",""memory-management"",""memory-mapped-files""]",Memory-mapped files remain in physical memory?,3483
+1630366,1630443,2,0,2009-10-27T12:06:19.36,1,48465,[2340031],1,"["".net"",""c#"",""linq"",""datatable"",""entity-framework""]",What's wrong with this DataTable while SqlBulkCopy-ing from an Entity?,3570
+1652479,1774931,5,0,2009-10-30T21:39:31.35,1,151322,[1631358],3,"[""iphone"",""macos"",""objective-c"",""plist""]",Is there a better way to serialize plist-y objects in Objective-C?,1953
+1669772,1669823,2,0,2009-11-03T19:55:59.697,3,163053,[184652],1,"[""svn"",""deployment"",""change-management"",""release-management""]",What's the right way to manage a release with SVN?,1695
+1700553,,3,2,2009-11-09T11:54:03.68,3,206829,[1408509],5,"["".net"",""c#"",""wcf"",""serialization"",""visual-studio-2010""]","WCF AddServiceReference causing custom tool error, not producing proxy",2678
+1730742,1730774,1,0,2009-11-13T17:27:30.05,1,160936,[112698],1,"[""python"",""executable"",""packaging"",""pygame""]","Pack program *and* dynamically loaded files into single executable? (python + pygame, or language agnostic)",1251
+1763480,1763671,4,2,2009-11-19T14:02:58.12,2,198386,[40738351],4,"[""c++"",""visual-c++""]",LNK2019 problem,3030
+1807379,1807385,3,2,2009-11-27T08:16:56.283,,219896,[215255],1,"[""c#"",""struct"",""lowercase"",""uppercase""]",Does system.Decimal use more memory than 'decimal'?,513
+1831152,,4,2,2009-12-02T07:12:42.187,23,220388,[7483525],112,"[""javascript"",""jquery"",""setinterval""]","How to stop ""setInterval""",193107
+1847193,1847718,2,2,2009-12-04T14:15:01.243,3,49544,[1834790],2,"["".net"",""c#"",""ado.net"",""tableadapter""]","Smarter ways to use TableAdapter with base-class, interface or partial class",3836
+1885368,1885402,2,1,2009-12-11T01:53:35.777,,4653,[2700696],1,"[""forms"",""data-binding"",""asp.net-mvc"",""post""]",can you post complex objects from form to controller in asp.net mvc,3103
+1911237,,1,0,2009-12-15T23:29:36.59,,48523,[1910745],1,"[""php"",""screen-scraping"",""zend-framework""]","PHP, Zend Framework: How to fetch a page from another server, then deliver the content?",429
+1922590,1922658,1,0,2009-12-17T15:39:18.037,0,146,[1705939],1,"[""sql-server"",""debugging"",""parameterized"",""linq-to-sql""]",Executing LINQ-to-SQL Debug Output?,336
+1933584,1938326,3,0,2009-12-19T17:33:02.967,1,186911,[4706973],1,"[""iphone"",""gdata-api"",""objective-c""]",GData Google API Objective-C client help for iPhone,2589
+1962310,1962312,10,1,2009-12-26T00:26:15.373,28,232495,"[350195,1631175]",118,"[""mysql"",""sql"",""performance"",""types""]",Importance of varchar length in MySQL table,57899
+2006472,2006530,6,1,2010-01-05T14:07:05.74,4,152365,[1264944],4,"[""architecture"",""design-patterns"",""domain-driven-design""]",Programming pattern / architectural question,3234
+2007397,,2,3,2010-01-05T16:25:07.803,1,244087,"[1396617,2173726]",4,"[""git"",""version-control"",""git-push""]",Howto prevent git from pushing changes to some files,2088
+2019621,2019826,3,2,2010-01-07T10:42:26.037,2,206446,[116978],6,"[""python"",""java""]",python vs java on web service development?,6246
+2055927,2055944,8,4,2010-01-13T10:26:20.997,39,90678,[2012274],327,"[""c#"",""generics"",""ienumerable"",""yield""]",IEnumerable and Recursion using yield return,81324
+2108297,3729709,2,2,2010-01-21T10:09:06.097,23,182332,[3279888],83,"["".net"",""c#"",""json"",""webrequest""]",How to get json response using system.net.webrequest in c#?,153463
+2120085,,4,2,2010-01-22T19:57:19.877,,226376,[370286],1,"["".net"",""dll""]",switch DLL based on environment - .net,441
+2144406,17692710,10,1,2010-01-27T03:34:26.573,49,21239,[30129920],168,"[""git"",""git-submodules""]",How to make shallow git submodules?,63414
+2157232,2157273,1,0,2010-01-28T19:16:09.68,,199173,[2180603],0,"[""iphone"",""sdk""]",Publish UIWebView texts on Facebook [iPhone SDK],754
+2162725,2162746,6,0,2010-01-29T14:58:57.98,,202895,[2135518],0,"[""tags"",""xhtml""]",Any difference in xhtml between <img .... /> and <img ...></img> at all?,112
+2168877,2168924,1,0,2010-01-30T18:17:55.873,2,,[2006468],0,"[""php"",""excel"",""jquery"",""dom"",""webforms""]","Help interpret/implement ""Copy/Paste from Excel to a web page"" answer?",3381
+2189443,,2,0,2010-02-03T03:18:03.1,,264890,[1375486],0,"[""xml"",""asp.net"",""ajax"",""asp.net-mvc"",""jquery""]",Passing form data to asp.net mvc controller action using JQuery,2472
+2217670,2218377,25,1,2010-02-07T18:02:26.76,33,267185,[26524003],68,"[""android"",""listview"",""double-click""]",Android: How to detect double-tap?,121083
+2256884,2496833,33,1,2010-02-13T07:53:20.28,30,94751,[7135999],92,"[""eclipse"",""android"",""eclipse-plugin"",""device"",""adb""]",Android Device Chooser -- device not showing up,192566
+2283273,2329819,2,3,2010-02-17T18:16:09.293,,58013,[784918],0,"[""c#"",""sql-server"",""asp.net"",""reporting-services""]",webreference: how do I speed them up?,416
+2290008,2290032,5,3,2010-02-18T16:02:13.257,1,257944,[827454],11,"["".net"",""c#"",""symbols""]",What does <??> symbol mean in C#.NET?,9350
+2329888,2333747,1,3,2010-02-24T21:55:18.39,,267733,[1123563],2,"[""c#""]",Retrieve Attribute from an interface method,166
+2341384,2342632,4,0,2010-02-26T12:02:16.473,1,138125,[440018],4,"[""java"",""xml"",""eclipse"",""gwt""]",GWT - adding external java classes to client project,11220
+2359154,,2,0,2010-03-01T21:21:05.923,1,91,[2008958],3,"[""javascript"",""flash"",""silverlight""]",Is it possible to paste an Image into Silverlight/Flash/JavaScript?,1362
+2379706,,1,1,2010-03-04T13:50:25.273,,115385,[2855890],3,"[""wordpress"",""tinymce""]",I want to implement TinyMCE in my Wordpress plugin. HOW?,1433
+2412001,2412017,2,0,2010-03-09T19:38:46.02,4,183304,[846805],16,"[""jquery""]",Select Table Row in jQuery,65484
+2426248,,18,2,2010-03-11T15:33:05.077,7,289804,[1110052],20,"[""iphone"",""hidden"",""objective-c"",""uitabbarcontroller"",""uitabbar""]",UITabBar leaves a white rectangle when hidden,12415
+2453919,,3,1,2010-03-16T11:34:36.46,,244548,[2198279],2,"[""c#""]",how to login in https sites with the help of webrequest and response,1202
+2467830,,4,5,2010-03-18T06:09:38.4,1,157705,[1103045],3,"[""java"",""sap"",""parsing"",""sax"",""xml-parsing""]",XML parsing with SAX | how to handle special characters?,7303
+2476432,2477389,5,0,2010-03-19T10:22:14.94,5,297261,[1666176],5,"[""c++"",""templates"",""expression""]",Storing expression template functors,570
+2501141,,0,0,2010-03-23T15:26:30.947,1,157525,[1644851],1,"[""c++"",""sockets""]",Socket throughput on localhost?,2269
+2530458,,11,0,2010-03-27T18:37:14.873,,303247,[2512503],7,"[""passwords"",""shell"",""ubuntu"",""gnupg""]",GnuPG Shell Script - Refuses to read password,6468
+2551682,2717995,2,0,2010-03-31T09:17:02.603,,268224,[2554827],0,"[""perl"",""fork"",""dbi"",""mod-perl2"",""apache-dbi""]",What is the safe way to use fork with Apache::DBI under mod_perl2?,885
+2567960,2567998,2,3,2010-04-02T16:59:05.207,1,99256,[852569],15,"[""localization"",""visual-studio""]",How to disable localization of errors in Visual Studio?,5169
+2599680,,16,7,2010-04-08T12:16:53.297,7,299871,[811958],69,"[""sql"",""vb.net"",""exception""]",I've caught an exception!! Now what?,6892
+2613525,2614937,9,4,2010-04-10T13:25:11.373,26,109747,[43995],48,"[""svn"",""git"",""version-control"",""mercurial"",""dvcs""]",What makes merging in DVCS easy?,3673
+2649653,2649691,3,3,2010-04-15T23:24:09.513,,317208,[2628018],3,"[""c++"",""embedded"",""x86"",""assembly""]",Change an array's value in x86 assembly (embedded in C++),9982
+2656636,,1,2,2010-04-16T23:42:21.037,1,278370,[140303],4,"[""asp.net"",""viewstate"",""exception""]",Unable to validate data. at System.Web.Configuration.MachineKeySection.GetDecodedData,3448
+2657812,2756786,3,3,2010-04-17T08:47:44.33,,182269,[2620085],0,"[""sharepoint"",""sharepoint-2007""]",Exception from HRESULT: 0x80020009 (DISP_E_EXCEPTION)) in SharePoint Part 2,6065
+2688224,,2,0,2010-04-22T04:21:35.163,,322907,[12246029],1,"[""iphone"",""uiaccelerometer"",""iphone-sdk-3.1.2""]",iPhone accelerometer:didAccelerate: seems to not get called while I am running a loop,1168
+2715314,2715424,1,0,2010-04-26T17:03:31.96,,140939,[2672535],1,"[""asp.net"",""web-parts""]",Which type of applications can use WebParts?,75
+2730966,2730983,9,3,2010-04-28T15:37:33.32,1,97736,[27064505],10,"[""c#""]",Is there a better way to set lots of required properties than sending as parameters in a Constructor?,689
+2760502,2760612,3,2,2010-05-03T19:05:18.943,2,421924,[50605],22,"[""c"",""types"",""integer"",""integer-overflow"",""underflow""]",Question about C behaviour for unsigned integer underflow,21316
+2771143,,2,0,2010-05-05T06:54:38.01,1,333144,[18757495],11,"[""c#"",""dll""]",C# update DLL without recompiling the project,16217
+2782883,2809088,3,1,2010-05-06T16:55:29.167,3,79591,[69605275],7,"[""unix"",""posix"",""ipc"",""shared-memory"",""lynxos""]",Condition Variable in Shared Memory - is this code POSIX-conformant?,10807
+2803525,,2,2,2010-05-10T14:43:09.153,1,257234,[177275],0,"[""asp.net"",""asp.net-mvc"",""gridview""]",Asp.net gridview MVC,798
+2822723,,2,0,2010-05-12T20:58:49.147,,339719,[968391],0,"[""sqlite"",""subsonic""]",Subsonic SQLite Multiple Files,290
+2894934,2895779,1,1,2010-05-24T05:31:34.07,3,348686,[3584297],5,"[""android""]",Installing a large size apk application on Android phone,2406
+2913206,2913269,3,0,2010-05-26T13:11:22.807,,273649,[2907473],4,"[""c++"",""type-coercion""]","A follow up on type coercion in C++, as it may be construed by type conversion",356
+2947677,,0,4,2010-06-01T06:28:44.3,,355121,[2948130],2,"[""cookies"",""cross-domain"",""session-cookies""]",Recreating Cookies on another Domain,207
+2964489,2965311,1,0,2010-06-03T08:59:21.913,,284151,[2967882],0,"[""sharepoint"",""wss""]",Backup restore without content in sharepoint,2349
+2986318,2986354,3,0,2010-06-06T23:14:22.96,34,193283,"[2927836,61312395]",120,"[""java"",""orm"",""hibernate"",""jpa"",""hibernate-mapping""]",How to map calculated properties with JPA and Hibernate,139258
+3017162,3017438,7,1,2010-06-10T18:08:21.993,34,354116,[9229333],47,"[""c++"",""linux"",""cpu-usage""]",How to get total cpu usage in Linux using C++,77545
+3028306,3028660,16,3,2010-06-12T10:22:56.903,786,363606,"[5453708,9324103,16210894,43066114]",1102,"[""java"",""android"",""download"",""android-asynctask""]","Download a file with Android, and showing the progress in a ProgressDialog",592295
+3049466,,2,4,2010-06-15T22:17:23.017,1,367743,[1591135],3,"[""javascript"",""iframe"",""internet-explorer"",""cross-browser""]",How can I append and execute a script inside an iframe in a cross browser way (specifically IE!)?,5944
+3055362,3055395,2,0,2010-06-16T16:39:58.333,,179015,[145154],0,"[""objective-c""]",Accessing Singleton Instance Variable in Class Methods Throws Warning?,1384
+3066468,,4,2,2010-06-18T00:19:52.833,32,369886,[754593],35,"[""java"",""real-time"",""stream"",""feed"",""financial""]",Are there free realtime financial data feeds since the demise of OpenQuant?,53107
+3083798,3083820,10,9,2010-06-21T10:20:32.63,7,351754,[737022],21,"[""html"",""javascript"",""mouse"",""right-click""]",How to disable mouse right click on a web page?,105327
+3085916,3086116,1,2,2010-06-21T15:18:51.217,1,332311,[1532876],2,"[""android"",""widget""]",android custrom control (button),158
+3098521,3098685,4,0,2010-06-23T02:24:53.437,16,45654,[13710364],116,"[""vim"",""file-exists""]",How to detect if a specific file exists in Vimscript?,43788
+3146483,3146509,1,0,2010-06-30T04:28:52.693,19,368772,[15587553],36,"[""html"",""javascript"",""file""]",HTML5 File API read as text and binary,106672
+3158869,3158895,6,1,2010-07-01T14:44:22.173,5,318747,[1351548],21,"[""javascript"",""minify""]",javascript packer versus minifier,17161
+3173147,3174749,2,2,2010-07-03T23:11:52.263,3,129099,[2682155],6,"[""compression"",""apache"",""http-compression""]","mod_deflate or mod_gzip, which should be used?",9534
+3202114,3202184,1,0,2010-07-08T09:16:06.62,,372047,[2812018],4,"[""c#"",""mono"",""gmcs""]",Why can't I pass just the name of a method where a similarly typed Func is expected?,99
+3202232,4833986,2,0,2010-07-08T09:29:11.657,,231821,[2404685],4,"[""xml-serialization""]",XML Serialize anonymous class,608
+3204060,3204106,4,0,2010-07-08T13:29:11.027,1,342279,[11005733],21,"[""django"",""indexing"",""main"",""set""]",Django how to set main page,45690
+3228649,3229501,2,1,2010-07-12T12:51:20.553,,84399,[2776975],1,"[""java"",""generics"",""compiler-errors"",""wildcard""]",Using generics with wildcards does not allow using methods with generic as a parameter,260
+3253692,,4,0,2010-07-15T08:17:46.82,,88460,[918736],3,"[""java"",""power-law""]",Java: Power Law Distribution,3635
+3265062,,2,0,2010-07-16T13:02:46.67,1,303295,[5577065],2,"[""python"",""cookies"",""selenium"",""selenium-rc""]",How to save and restore all cookies with Selenium RC?,1972
+3273218,,4,4,2010-07-17T20:49:19.413,1,394858,[214886],3,"[""apache"",""mod-rewrite""]",Give 404 on existing folder/directory,2550
+3297867,,13,4,2010-07-21T09:29:12.033,150,395617,"[2486191,3052442]",252,"[""java"",""string"",""string-literals""]",Difference between string object and string literal,291856
+3316034,3316127,1,0,2010-07-23T07:13:40.073,,326686,[3649201],0,"[""iphone""]",how to check installed application in iphone device in ios SDK 4.0,1144
+3352490,3352617,4,0,2010-07-28T11:46:28.857,1,310743,[3257575],5,"[""sql"",""oracle""]",Why is it that the IsEqual (=) operator is working faster than the IsNotEqual (<>) operator in Oracle?,1210
+3362573,3447899,7,2,2010-07-29T12:47:46.687,2,225402,[22411136],4,"[""java"",""workflow"",""flowchart""]",Is there any tool for flow-diagram available?,5209
+3378194,,3,5,2010-07-31T13:00:44.043,,144865,[3376803],0,"[""html"",""python"",""regex""]",Problem extracting text out of html file using python regex,403
+3401183,3401197,3,2,2010-08-03T22:15:16.15,,410194,[5725296],26,"[""bash""]","Bash syntax error: ""[[: not found""",36942
+3421339,3425847,1,0,2010-08-06T06:00:08.093,1,350622,[2396786],2,"[""iphone"",""xcode"",""notifications"",""sleep""]",Is it possible to know when the iPhone will go to sleep?,1459
+3441145,3441806,3,0,2010-08-09T14:41:51.333,0,78000,[650647],4,"[""hibernate"",""ejb"",""seam"",""seam-conversation"",""seam2""]",Help me to understand SEAM and Hibernate?,2350
+3475076,3477285,5,0,2010-08-13T08:16:40.997,6,74257,[1637211],16,"[""javascript"",""java"",""jsf"",""facelets"",""fragment-identifier""]",Retrieve the fragment (hash) from a URL and inject the values into the bean,12940
+3504445,3504600,3,0,2010-08-17T15:57:11.297,,1317031,[2815903],3,"[""regex"",""emacs"",""elisp""]",Can some please explain this elisp regexp,403
+3528877,3528955,4,1,2010-08-20T07:17:11.02,1,291224,[2808617],7,"[""c++"",""windows"",""multithreading"",""mutex""]",Can someone Explain Mutex and how it is used?,11849
+3545196,3545781,3,2,2010-08-23T06:36:14.833,5,428100,[4184889],9,"[""android""]",Android: Programmatically iterate through Resource ids,8095
+3550566,3550603,6,2,2010-08-23T18:32:11.503,,287820,[858080],1,"[""c#"",""casting"",""operators""]",weird compiler error when casting in ternary/conditional operator,176
+3594740,,7,2,2010-08-29T12:34:22.097,,434180,[3594514],1,"[""python""]",Finding the common elements of a list,885
+3606107,,4,3,2010-08-31T04:48:44.173,,426021,[2370288],2,"[""java""]",How to calculate the size of class in java ..?is any method like sizeof() in c..?,4535
+3614212,3614218,4,0,2010-09-01T00:27:45.193,22,181637,[2419749],139,"[""html"",""jquery""]","jQuery, get html of a whole element",200942
+3637613,,3,1,2010-09-03T16:15:27.387,8,294181,[26114920],25,"[""css"",""css-shapes""]",hexagonal shaped cells in html,21216
+3655250,3655254,7,10,2010-09-07T01:45:59.957,2,69514,[16864552],5,"[""c"",""printing"",""printf"",""type-conversion""]",Why does printf print wrong values?,9376
+3669109,3670228,1,0,2010-09-08T15:04:39.81,,26699,[1313640],0,"[""java"",""flv"",""parsing""]",How to get flv duration in java?,1398
+3690317,,3,0,2010-09-11T08:22:31.613,,161207,[3409053],1,"[""java"",""jsf""]",How to add <h:inputtext> dynamically in JSF?,7760
+3699504,3699597,3,1,2010-09-13T10:21:32.637,,392390,[1084114],2,"[""php"",""cookies""]",Cookie of different domains in PHP,1957
+3715505,3715593,3,1,2010-09-15T07:26:36.813,2,387298,[2857376],7,"[""jakarta-ee""]",What is Java EE Web Application?,8698
+3755789,3755849,4,3,2010-09-20T21:47:53.123,2,392119,[1042902],7,"[""math"",""primes"",""sieve""]",Fastest prime test for small-ish numbers,1414
+3792134,,11,0,2010-09-25T02:00:11.313,17,190925,"[1418777,1525772]",34,"[""ms-access"",""vba""]",Get Name of Current VBA Function,48888
+3833791,,4,5,2010-09-30T18:46:09.947,7,4234,[816285],12,"[""python"",""regex"",""ascii"",""character-encoding"",""special-characters""]",Python regex to convert non-ascii characters in a string to closest ascii equivalents,6612
+3841231,3890800,4,2,2010-10-01T16:39:30.557,8,119895,[3682021],7,"[""iphone"",""android"",""progress-bar""]",Custom ProgressBar widget,5936
+3871834,3871867,4,2,2010-10-06T11:11:06.9,,423620,[3684079],2,"[""java""]",How to extract number and String in java,2670
+3891729,3938103,1,0,2010-10-08T14:51:11.607,,379226,[487150],2,"[""cocoa-touch"",""interface-builder"",""uikit"",""ipad""]",iPad status bar overlaps view,1262
+3904615,3904628,4,1,2010-10-11T08:29:27.013,,393273,[739682],6,"[""iphone"",""objective-c"",""nsstring""]",% sign in string objective c,1941
+3921922,3921951,8,1,2010-10-13T08:29:01.583,9,285020,[3872604],10,"[""javascript""]","What does (function (x,y){...})(a,b); mean in JavaScript?",17874
+3936762,4179228,1,1,2010-10-14T19:23:17.977,,48310,[188147],1,"[""ruby-on-rails""]","Rails 2.3.9, adding ActiveScaffold, getting in `alias_method': undefined method `number_of_pages' for class `Paginator'",552
+3952855,,3,1,2010-10-17T10:37:30.4,,476774,[3941418],3,"[""xna"",""xna-4.0""]","""Press Enter to start the game"" XNA INTRO SCREEN",6107
+3969971,,0,3,2010-10-19T15:26:00.72,,105570,[138331],1,"["".net"",""diff"",""open-source""]",Is there an open source diff library for .NET (for text)?,2017
+3994159,,4,3,2010-10-22T05:29:31.643,2,101015,[3953217],7,"[""php"",""api""]",Logging API calls,9786
+4021329,4021940,1,0,2010-10-26T06:51:38.837,1,245416,[13935443],6,"[""debugging"",""gdb""]",issue with debugged application output in gdb,2005
+4028833,,1,0,2010-10-26T23:15:17.94,4,488199,[468038],19,"[""html"",""css""]","Two divs; left should be fixed width, right should fill rest of space",17661
+4048741,4567366,1,0,2010-10-29T03:23:25.113,,1322,[7465849],0,"[""android""]",android.intent.action.NOTIFICATION_REMOVE not available on all devices?,636
+4061777,4061789,3,1,2010-10-31T03:49:30.75,4,483231,[2235834],35,"[""int"",""haskell"",""integer""]",Converting Int to Integer,35417
+4089383,,3,0,2010-11-03T16:43:58.353,0,496201,[3733988],2,"[""android"",""root"",""screen-capture"",""android-screen""]",Capture android screen,5985
+4119280,4119833,2,0,2010-11-07T19:28:13.503,,430167,[796195],0,"[""c#"",""sql"",""desktop-application""]",Implement Search from database as alphabets are entered,923
+4148350,4148393,2,4,2010-11-10T19:38:17.397,1,349297,[2479557],9,"[""html"",""javascript"",""anchor""]",is it bad practice to use href='javascript:func()' than onclick='func()' for anchors?,1598
+4173225,4173315,9,6,2010-11-13T15:23:47.497,4,1178669,[464342],4,"[""python"",""algorithm""]",My implementation of merging two sorted lists in linear time - what could be improved?,10149
+4193730,,1,8,2010-11-16T11:43:05.52,,501666,[4193398],1,"[""javascript"",""jquery""]",find() function not working on page load in jquery,279
+4213282,4213402,4,3,2010-11-18T09:26:56.99,4,418110,[154469],14,"[""c++"",""namespaces""]",unnamed namespace,8226
+4232169,4232408,2,0,2010-11-20T10:02:33.737,,407120,[4225014],0,"[""java"",""jsf"",""web-applications""]",IllegalStateException on redirect,2527
+4239770,4239823,7,1,2010-11-21T19:16:58.73,1,18909,[11296854],7,"[""c++"",""floating-point"",""precision"",""types"",""type-conversion""]",What are the rules governing C++ single and double precision mixed calculations?,9046
+4275523,,1,2,2010-11-25T09:34:04.69,,519919,[3263480],0,"[""php"",""upload"",""file""]",PHP video file upload problem,1977
+4291528,,3,1,2010-11-27T11:59:29.487,1,522221,[3849858],2,"[""sockets"",""hardware"",""driver"",""firefox-addon"",""google-chrome-extension""]",Interaction between browser and external hardware?,1142
+4301877,4301901,3,0,2010-11-29T08:11:31.57,4,238134,[3297048],23,"[""rest"",""http"",""http-status-codes""]",HTTP status code for missing authentication,16138
+4344922,,3,1,2010-12-03T11:08:12.307,2,475247,[5468099],1,"[""java"",""browser"",""glassfish"",""browser-cache"",""http-headers""]",How can I set HTTP headers in Glassfish server,8686
+4368107,4368131,1,4,2010-12-06T15:46:19.27,,337085,[4367861],-1,"[""php"",""upload"",""file-upload""]",How can I know a number of uploaded files with PHP?,584
+4385118,4390231,5,3,2010-12-08T07:28:12.447,1,500451,[9280915],4,"[""forms"",""validation"",""jsf"",""messages"",""prefix""]",Why the form id prefix in the h:message output?,10442
+4404722,4404767,4,10,2010-12-10T01:02:36.077,,471812,[4384021],0,"[""c++"",""arrays"",""recursion""]",Problem with C++ program output,658
+4455076,4455154,8,0,2010-12-15T21:27:41.75,125,537441,[53097952],573,"[""python"",""arrays"",""numpy""]",How to access the ith column of a NumPy multidimensional array?,957722
+4471560,4623281,1,0,2010-12-17T14:44:19.797,,380621,[4467030],2,"[""apache"",""ssi""]",Is it possible to Server Side Include something above webroot?,1191
+4492261,6392840,2,3,2010-12-20T17:40:32.573,4,339843,"[2836473,4056606]",5,"[""android"",""visual-studio""]",What do I need to do to compile Android NDK (C++) aps in Visual Studio 2010?,1489
+4511215,,3,1,2010-12-22T16:21:41.41,,52025,[190421],0,"[""php"",""oop"",""php-5.3""]",Get function name of child class in parent class,678
+4526127,,6,2,2010-12-24T11:47:57.49,,400962,[301359],3,"[""asp.net"",""asp.net-mvc""]",Not found error in asp.net-mvc,541
+4557114,4557741,1,1,2010-12-29T19:19:44.883,3,126352,[4229327],9,"[""python"",""django"",""django-templates""]",Django custom template tag which accepts a boolean parameter,3655
+4600185,,1,4,2011-01-05T01:53:15.137,,558758,[4598405],2,"[""c#"",""sql"",""linq-to-entities"",""entity-framework""]",CTE Sql query support in Entity Framework <DefiningQuery>,2471
+4612673,4616355,8,2,2011-01-06T07:14:06.793,0,548435,[1969667],5,"[""java"",""jakarta-mail""]",MessagingExceptionIOException while sending message in java?,50883
+4620246,4620422,2,4,2011-01-06T21:46:31.487,1,406543,[3953746],0,"[""html"",""javascript"",""forms""]",Form iteration function not working properly,264
+4645222,4758727,1,1,2011-01-10T09:21:27.207,3,491413,[4052940],2,"[""opengl"",""directx"",""3d"",""wpf"",""animation""]",Animate 3D object on windows desktop,918
+4661888,,5,1,2011-01-11T19:47:21.85,2,212159,[574691],1,"[""php"",""algorithm"",""logic"",""euclidean-distance""]",Finding cities close to one another using longitude and latitude,3944
+4687351,,2,3,2011-01-14T02:09:09.95,3,493592,[23570572],8,"[""python"",""opencv"",""gstreamer""]",Add some OpenCV processing to a gstreamer video stream,4722
+4703535,4704360,6,1,2011-01-16T02:54:58.77,13,434414,[2240326],36,"[""android"",""preferenceactivity"",""android-preferences""]",How to show and hide preferences on Android dynamically?,33083
+4712837,,1,3,2011-01-17T11:54:51.72,,502014,[3529852],-2,"[""xml"",""xslt""]",Apply XSL template in external XML file,1461
+4733869,4733904,7,0,2011-01-19T09:58:56.733,0,248643,[4531429],0,"[""c"",""c++"",""performance"",""for-loop""]","which is better ""for(int i = 0; i != 5; ++i)"" or ""for(int i = 0; i <= 5; i++)""?",22802
+4749037,4749157,3,5,2011-01-20T15:31:15.303,,543130,[4732067],2,"[""mysql"",""optimization"",""innodb"",""full-text-search"",""query-optimization""]",Please help me optimize a mysql search query,629
+4757438,4757501,9,3,2011-01-21T09:59:08.843,19,2671514,[5296268],72,"[""javascript"",""regex"",""string"",""client""]",JavaScript: indexOf vs. Match when Searching Strings?,68082
+4779365,4779406,2,1,2011-01-24T06:46:17.03,1,286808,[428918],2,"[""java"",""date""]",Add date by one,2007
+4802417,4802629,3,0,2011-01-26T08:08:13.683,1,564721,[1309624],4,"[""ruby"",""database"",""sorting"",""ruby-on-rails""]",Sort by state in database,1999
+4812686,,6,0,2011-01-27T04:16:47.7,35,396077,"[10965720,30799814]",134,"[""html"",""javascript"",""sockets"",""websocket""]","Closing WebSocket correctly (HTML5, Javascript)",191003
+4828661,4830211,2,0,2011-01-28T13:21:19.863,1,92153,[1423533],4,"[""silverlight"",""xaml"",""control-template""]",Silverlight 4 : Making Closeable Tabitems,4183
+4846792,,2,2,2011-01-31T01:05:26.46,,596221,[8771316],1,"[""php""]",How to Use the Olson Time Zone Database in PHP?,2063
+4881896,4881927,6,7,2011-02-03T01:36:40.973,4,,[1000663],6,"[""c"",""c++""]",Using a C++ class member function (cannot be static) as a C callback function,5872
+4892231,,4,7,2011-02-03T22:01:10.567,,71522,[31523005],0,"[""apache-flex"",""flex3""]",Flex: errors in generated *WatcherSetupUtil?,2514
+4923319,4923410,4,6,2011-02-07T15:52:02.707,25,364987,"[1550950,4083038]",31,"[""php"",""regex"",""string"",""cjk""]",Php - regular expression to check if the string has chinese chars,24919
+4943430,4943785,4,1,2011-02-09T10:14:43.34,1,328725,[2193310],1,"[""java"",""concurrency"",""multithreading""]",Parallel-processing in Java; advice needed i.e. on Runnanble/Callable interfaces,1678
+4964364,4964379,2,0,2011-02-11T00:28:20.353,,288444,[1358033],2,"[""xcode"",""cocoa-touch"",""objective-c""]",Meaning of Base SDK in Xcode,2088
+4990077,,1,0,2011-02-14T08:24:35.47,3,615887,[4488873],2,"[""delphi"",""toolsapi""]",Delphi Open tools Api creating a project wizard,1352
+5022067,5022113,4,5,2011-02-16T21:04:07.193,6,283981,[4003408],34,"[""c"",""strlen"",""c-preprocessor""]",strlen in the C preprocessor?,25716
+5038153,5038168,3,1,2011-02-18T06:00:53.043,1,609567,[2422468],1,"[""java"",""file-upload""]",uploading of files and images,161
+5049992,5052898,6,1,2011-02-19T09:31:31.89,31,317384,[47568013],84,"[""paging"",""mongodb""]",MongoDB - paging,59504
+5058793,5059079,5,0,2011-02-20T17:45:27.253,,625454,[1353680],4,"[""cakephp""]",How to populate drop-down list with database values in CakePHP,28069
+5077719,5077833,1,0,2011-02-22T11:51:28.35,0,498112,[3706515],0,"[""stringbuilder"",""android"",""json""]","android, iterate over stringbuilder json?",1286
+5096240,5096741,2,1,2011-02-23T19:49:02.377,,630988,[815687],0,"[""html"",""javascript"",""jquery""]",Using images / links to switch form select (dropdown),1863
+5131158,,1,0,2011-02-27T03:01:19.66,,558180,[3482106],2,"["".htaccess"",""mod-rewrite"",""redirect"",""ipad""]","iPad/iPhone browser sniffer with mod_rewrite and redirection; ""too many redirections""",2804
+5159373,5167752,3,1,2011-03-01T19:32:34.603,,336916,[12591192],0,"[""iphone"",""uitextview"",""uilabel""]",iphone - How to center dynamic sized text,2974
+5167426,5179023,1,4,2011-03-02T12:25:13.72,0,568371,[5067366],0,"[""c#"",""paint"",""panel"",""transparent"",""winforms""]",Semi-transparent panel showing controls underneath,3652
+5193646,,5,5,2011-03-04T12:23:52.53,,644541,[5192575],0,"[""javascript"",""php""]",Combing JS and PHP on one button. Is it possible?,217
+5207949,5308234,1,0,2011-03-06T01:06:29.16,1,673836,[351503],5,"[""cocoa"",""core-animation"",""objective-c"",""nstextfield""]",How to fix focus ring's highlight being clipped when using CALayer?,1341
+5225273,5226929,3,1,2011-03-07T21:08:42.85,2,67441,[17634395],3,"[""c#"",""cil"",""equals""]","Difference between the ""ceq"" MSIL command and object.InternalEquals",1662
+5240925,5241014,4,0,2011-03-09T03:19:43.693,2,650785,[1111980],0,"[""java"",""multithreading"",""android""]",android thread crashes when screen orientation changes,1838
+5255790,,2,4,2011-03-10T05:20:48.523,,652894,"[761194,4126938]",0,"[""java""]",abstract class&interface,132
+5266826,5266862,2,0,2011-03-10T22:46:21.083,,38765,[5255310],1,"[""ruby"",""monkeypatching""]",Is it theoretically safe to redefine any Ruby method that doesn't begin with underscores?,74
+5279729,5287439,1,0,2011-03-12T00:03:30.927,,599484,[304885],0,"[""macos"",""button"",""nsapplication"",""runloop""]",osx and objc - running a second run loop for a plugin?,146
+5296383,5296544,1,0,2011-03-14T08:41:07.183,1,618694,[1211923],0,"[""iphone"",""debugging"",""xcode"",""objective-c"",""nslog""]",How to place significant NSLogs in Xcode without typing,128
+5300626,5300828,3,3,2011-03-14T15:22:13.747,,105167,[2917496],0,"[""java"",""postgresql""]",How do I compress both this postgresql query into one statement in java?,318
+5321346,5321650,3,0,2011-03-16T05:16:23.93,,633825,[12642847],0,"[""iphone"",""transition"",""flip"",""ios"",""subviews""]",Subviews not displaying during Flip Transition,604
+5339276,8636521,8,2,2011-03-17T12:54:39.67,217,296446,[8834294],238,"[""objective-c"",""swizzling"",""ios""]",What are the Dangers of Method Swizzling in Objective-C?,40470
+5344185,,0,3,2011-03-17T19:30:53.227,,369166,[6652227],2,"[""php"",""wcf"",""wcf-security""]",How to consume a WCF secure service with PHP?,6258
+5352474,5362615,1,2,2011-03-18T13:14:41.207,1,645428,[5089066],2,"[""nhibernate""]","Dynamically change the id generator to ""assigned"" in NHibernate class mapping",2403
+5370250,,1,1,2011-03-20T17:43:29.097,,564964,[361975],1,"[""java"",""mysql"",""byte"",""utf-8""]",encountering a square or null or ? mark in retrieving utf-8 characters from mysql database in java,637
+5403342,5403387,4,0,2011-03-23T09:49:11.1,2,516629,[35508182],4,"[""javascript"",""ajax"",""jquery""]",JS : Return result from nested ajax success function,4963
+5417744,,2,0,2011-03-24T10:29:29.267,1,392406,[3012905],1,"[""php"",""facebook""]",How to get user's profile pic url using graph api,7769
+5431646,5432353,5,0,2011-03-25T11:11:30.65,4,669645,[4969638],4,"[""java"",""pdf"",""performance"",""xhtml"",""flying-saucer""]",Is there any way improve the performance of FlyingSaucer?,8998
+5443950,5444036,4,5,2011-03-26T17:26:04.6,,361338,[5279477],0,"[""c#"",""vb.net""]",help to convert c# anonymous to vb.net,290
+5459231,,2,2,2011-03-28T12:50:28.05,1,421935,[1216114],2,"[""iframe"",""facebook""]",Facebook Application iFrame Fixed Element,1296
+5474871,,15,4,2011-03-29T15:18:59.607,68,252679,"[7738117,21064101]",247,"[""html"",""javascript"",""css"",""ellipsis"",""tooltip""]",HTML - how can I show tooltip ONLY when ellipsis is activated,186736
+5488919,5489249,1,1,2011-03-30T16:04:52.853,,682921,[37684],0,"[""javascript"",""jquery"",""replace"",""hyperlink""]",jQuery add attribute when a certain text string is found,212
+5505759,5506065,1,2,2011-03-31T20:15:38.113,,642760,[5498350],1,"[""php"",""drupal"",""drupal-modules""]",theme_table with multiple rows,1067
+5527437,5970314,2,3,2011-04-03T03:46:17.47,7,509908,[1309263],15,"[""c"",""algorithm"",""matlab""]",Rolling median in C - Turlach implementation,9177
+5544329,5544702,3,3,2011-04-04T21:03:46.4,,483140,[2065001],0,"[""sql-server"",""coldfusion"",""performance""]",MS SQL Coldfusion fine tuning query,376
+5558534,5558604,4,3,2011-04-05T21:07:32.74,41,566145,[34378238],61,"[""android"",""resolution"",""screen"",""android-screen-support""]",Do I need 14 different layouts to support all Android devices?,27918
+5578797,,3,0,2011-04-07T09:20:39.057,,61876,"[2233001,2614989]",3,"[""entities"",""netbeans"",""weblogic"",""jakarta-ee""]",Java: exception when casting to itself(?),3835
+5584341,,2,3,2011-04-07T16:25:06.683,1,2010916,[4252208],3,"[""javascript"",""php"",""security"",""authentication"",""web-services""]",A way to add access control to a webservice called by javascript?,396
+5598476,,0,3,2011-04-08T17:10:18.09,,663322,[1384406],4,"[""python"",""django"",""format"",""seconds""]",Django filter for converting the number of seconds into a readable form,2065
+5624969,5625011,3,3,2011-04-11T17:15:23.71,2,31308,[53125039],13,"[""regex"",""bash""]",How to reference captures in bash regex replacement,19965
+5647261,,4,1,2011-04-13T09:46:37.127,,6508,[4238345],3,"[""c#"",""timeout""]",How to impose a time limit constraint to an operation,2588
+5662684,,0,7,2011-04-14T11:43:11.097,,707882,[5471765],0,"[""c"",""b-tree"",""data-structures""]",Btree deletion code,372
+5677745,5677980,4,0,2011-04-15T13:48:52.35,,497934,[318064],2,"[""c++"",""oop"",""methods"",""design-patterns"",""user-defined-functions""]",Enforcing Common Method Names,123
+5706155,5707654,1,0,2011-04-18T16:49:14.76,3,97154,"[766610,5240066]",5,"[""error-handling"",""asp.net-mvc"",""custom-error-pages"",""custom-errors"",""asp.net-mvc-3""]",How do I get ASP.NET MVC to honor my customErrors settings?,1066
+5708872,6338384,3,0,2011-04-18T21:04:08.543,2,450076,[3691968],9,"[""character-encoding"",""mongoose"",""mongodb"",""node.js"",""express""]",How to convert data to utf-8 in node.js?,28387
+5716641,5716671,2,0,2011-04-19T12:53:13.367,,632951,[1822350],9,"[""javascript"",""operators""]",What is the JavaScript >>> operator used for?,1666
+5731295,5731363,1,0,2011-04-20T13:41:48.447,,645085,[124269],0,"[""jquery"",""wsdl"",""web-services""]",access webservice wsdl from jquery,1985
+5748908,5748996,1,0,2011-04-21T19:33:47.957,,719316,[2044676],3,"[""vb.net"",""web-services"",""fedex"",""thermal-printer"",""zebra-printers""]",Send data to thermal printer,6858
+5753525,,2,0,2011-04-22T08:10:18.277,,694601,[5269634],0,"[""for-loop"",""verilog"",""logarithm"",""instantiation""]",log value in verilog,1464
+5764841,5765106,4,0,2011-04-23T14:47:44.35,,559310,[594808],1,"["".net"",""c#"",""design-time"",""windows-forms-designer"",""winforms""]",Get all controls of the current form at design-time,3282
+5771984,5771994,1,3,2011-04-24T17:14:46.92,,412207,[10819],0,"[""c#""]",Row is repeated while inserting data,107
+5793672,,0,0,2011-04-26T16:53:49.82,0,1099180,[342152],0,"[""identifier""]",Numbers as identifiers,64
+5810431,5810534,6,1,2011-04-27T20:52:43.217,3,229853,[1216505],6,"[""javascript"",""regex"",""jquery""]",Extract substring out of a string using Javascript,15148
+5823425,,2,4,2011-04-28T18:41:06.957,1,396092,[3778110],4,"[""java"",""hibernate"",""jdbc""]",org.hibernate.exception.ConstraintViolationException: Could not execute JDBC batch update,32696
+5849726,5849795,1,7,2011-05-01T16:35:14.39,2,556479,[647079],2,"[""objective-c"",""freeze"",""nsoperation"",""nsoperationqueue""]",NSOperation & NSOperationQueue freezing application,827
+5876564,5876685,1,1,2011-05-03T22:41:05.833,1,508788,[5592612],2,"[""nsfilehandle"",""ios"",""assetslibrary""]",iOS ALAssetsLibrary and NSFileHandle reading file contents,3589
+5888785,5897919,4,2,2011-05-04T19:23:40.183,3,655582,"[1435474,5780232]",15,"["".net"",""c#""]",What is the most robust way of linking members with their string name?,210
+5911445,,4,10,2011-05-06T12:30:47.27,,506367,[5109879],9,"[""python"",""linux"",""usb"",""removable-storage""]",Listing all USB drives in Linux,4788
+5921545,5928634,2,4,2011-05-07T14:02:13.543,3,535256,[1175096],13,"[""php"",""https"",""http"",""session-state""]",PHP session HTTP to HTTPS problem,15077
+5933536,9546623,2,0,2011-05-09T06:50:53.293,,718264,[8814439],0,"[""c#"",""asp.net"",""jquery""]",how to validate tinymce through jquery in asp.net,459
+5941232,5941295,3,0,2011-05-09T19:00:59.64,1,633224,[5690772],1,"[""c#"",""asp.net""]",Is Dirty in ASP.NET Web Page,6005
+5943008,,2,0,2011-05-09T22:00:19.257,1,704981,[5096537],1,"[""android"",""listview"",""nine-patch""]",Bubble ListView with 9-patch,3071
+5944882,5944893,6,1,2011-05-10T03:36:09.92,,289829,[5932239],3,"[""c++""]",Problem with temporaries,137
+5956653,,1,2,2011-05-10T21:23:58.773,,243494,[888335],4,"[""java"",""serialization""]",Do I need to put a serialVersionUID on ancestors of a Serializable class?,1114
+5972736,,3,3,2011-05-12T02:35:02.877,,747136,[5727],1,"[""c"",""c++"",""pointers""]","C(++) Pointers, needing clarification",202
+5980497,5980725,1,10,2011-05-12T15:30:59.39,1,658384,[1172916],1,"[""php"",""ffmpeg"",""file-upload"",""video-processing""]",Ffmpeg installation And Converting VIdeo's:,2885
+5981027,5981095,2,0,2011-05-12T16:11:46.487,1,716131,[1698870],1,"[""c#"",""scripting"",""codedom"",""system-codedom-compiler""]",C# Compiling User Supplied Code And Using,647
+6000368,,1,0,2011-05-14T07:14:02.827,,645904,[6635562],4,"[""full-text-search"",""sql-server-2008""]",SQL server Fulltext trouble with period character,1061
+6013308,,0,2,2011-05-16T04:52:28.2,,723732,[5985051],0,"[""extjs""]",ExtJS Date In Gridpanel,1517
+6017971,6018070,4,2,2011-05-16T13:14:17.187,1,131637,[6010006],2,"[""html"",""css""]",How to display an image in the right upper corner of an input box,10366
+6026106,6026632,1,0,2011-05-17T04:00:56.293,,198680,[596862],0,"[""ios4"",""mpvolumeview""]",How can i make sound on and off using my native iPhone Application?,283
+6043616,6043804,3,1,2011-05-18T11:01:17.837,,28557,[539143],0,"[""parsing"",""dom"",""xml-parsing""]",DOM Parser : How to handle special characters,1451
+6056471,6056609,1,0,2011-05-19T09:23:18.74,,827530,[4325639],1,"[""html"",""java"",""android"",""webview""]",Android: How to save html file with user filled out form,5223
+6068803,6069503,11,1,2011-05-20T07:30:21.283,148,746173,"[5970188,7515309,8876843]",251,"[""android"",""android-camera""]",How to turn on front flash light programmatically in Android?,372079
+6089854,,3,0,2011-05-22T18:22:53.56,,765032,[4076836],6,"[""properties"",""objective-c"",""ios"",""xcode4""]",Where are the synthesized ivars stored?,661
+6098073,6098736,3,8,2011-05-23T13:45:05.88,5,186608,[15086040],12,"[""python"",""code-generation"",""python-2.x"",""function-object""]",Creating a function object from a string,15873
+6117598,,1,0,2011-05-24T22:17:47.91,,217246,"[898463,4833820]",1,"[""jquery"",""google-chrome"",""drop-down-menu"",""jquery-events""]",Firing a dropdownlist event instantaneously (ideally jQuery),685
+6136136,6136272,1,4,2011-05-26T09:07:32.993,,755278,[1998030],0,"[""iphone"",""xcode"",""objective-c""]",UITextView Puzzle?,575
+6156968,6215466,4,7,2011-05-27T19:44:33.83,7,681409,[3276888],17,"[""core-data"",""objective-c"",""ios"",""data-synchronization""]",What is a good solution to synchronize data between iOS apps?,11465
+6174550,6179462,33,0,2011-05-30T09:36:46.283,72,348545,"[9720483,37690353]",192,"[""java"",""eclipse"",""debugging""]",Eclipse java debugging: source not found,465209
+6183857,,1,8,2011-05-31T06:38:36.45,,777191,[4486864],0,"[""android""]",get data from ballon on ballon tap from google map,815
+6196466,,0,1,2011-06-01T04:57:37.277,,388394,[1817394],2,"[""perl"",""hash""]",concept of hash in perl,178
+6209594,6209642,5,6,2011-06-02T01:49:52.027,2,780393,[885009],4,"[""debugging"",""android"",""android-widget"",""android-manifest"",""android-layout""]",R.id Cannot be resolved,25825
+6229062,6229352,1,0,2011-06-03T15:23:07.46,,700510,[6034113],2,"[""resources"",""objective-c"",""xcode4""]",Finding a Resource Text File,729
+6269175,,1,6,2011-06-07T17:25:50.207,0,661240,[1044460],2,"["".net"",""exception"",""backgroundworker""]",Why exception is not caught in BackgroundWorker DoWork routine?,1099
+6288597,6289567,1,1,2011-06-09T05:50:45.01,,12113,[6145442],1,"[""silverlight"",""pid"",""silverlight-4.0""]",is it possible for a Silverlight to read the browser process id,362
+6296139,6408918,4,1,2011-06-09T16:27:35.37,1,791172,[40775369],14,"[""windows"",""printing"",""zebra-printers""]","Raw printing directly to a USB printer, bypassing Windows spooler",54923
+6307527,,0,3,2011-06-10T14:09:49.873,,2683759,[7382651],2,"[""asp.net"",""asp.net-ajax"",""internet-explorer-8""]",Request.UrlReferrer returning null with IE 8,3296
+6323687,,1,0,2011-06-12T18:21:12.033,,678824,[6184959],0,"[""jsf"",""uirepeat""]",How to get values from ui:repeat in a html form,1352
+6331455,6331507,5,1,2011-06-13T14:00:27.49,,795350,[1287567],1,"[""c#"",""c#-4.0""]",How to shuffle multiple related arrays?,252
+6332052,6332196,1,1,2011-06-13T14:49:56.463,,640034,[32991080],2,"[""sockets"",""android"",""file""]",Sending File using sockets in android,6894
+6354025,6354067,2,0,2011-06-15T06:44:30.147,,147601,"[2005687,6322559]",6,"[""java"",""gwt"",""guava""]",Trouble with GWT and Guava,3088
+6383221,,1,0,2011-06-17T08:28:59.807,,173711,[777976],3,"[""c"",""registry"",""windows-xp"",""startup"",""autostart""]",Difference starting program from registry to starting from startup folder,710
+6401558,,5,6,2011-06-19T09:12:45.303,1,800816,[273516],2,"[""php""]",PHP nested array search,575
+6433809,6433890,1,0,2011-06-22T01:07:32.163,,762174,[2436578],1,"[""python"",""sqlalchemy"",""flask"",""flask-sqlalchemy""]",SQLAlchemy: 'Model' object is not callable,10900
+6458450,,2,4,2011-06-23T17:52:25.683,2,161472,[2299250],16,"[""java"",""sockets"",""jvm"",""segmentation-fault""]",Sun JVM (JRE jre1.6.0_24) segfault NET_Read,2858
+6470748,,2,2,2011-06-24T16:21:16.433,4,814404,[279966],18,"[""php""]",Difference between: $_SERVER['SCRIPT_NAME'] and $_SERVER['PHP_SELF'],23625
+6516272,,0,4,2011-06-29T05:51:28.267,,820345,[5484392],0,"[""struts""]",Regex grammar for action mapping in Struts 1.x to map the URLs?,327
+6529865,6537228,1,3,2011-06-30T04:14:59.447,4,738746,[4964180],0,"[""ejb"",""code-injection"",""jsf-2"",""managed-bean""]",Injecting same EJB into two different managed beans not working,4368
+6545954,6546101,1,1,2011-07-01T09:16:26.23,1,489152,[570317],1,"[""c"",""free"",""memory-management""]",Avoiding Memory Allocation related errors,548
+6559632,6559784,1,0,2011-07-02T21:09:38.89,,534101,[2109841],0,"[""sitemap"",""robots.txt"",""asp.net-mvc-2""]",Robots.txt and SiteMap.xml within MVC 2 app,830
+6565708,,0,1,2011-07-03T21:35:29.787,,410072,[6167820],1,"[""qt""]",Building Qt statically,234
+6587254,6651724,6,6,2011-07-05T18:35:40.22,6,57883,"[176931,12024512]",53,"[""asp.net"",""publish"",""visual-studio-2010"",""web-application-project""]",WebApplication publish to relative filesystem path,18742
+6611528,6611708,1,1,2011-07-07T13:40:44.557,1,323929,[5598934],0,"[""iphone"",""cocoa-touch"",""avfoundation"",""ipad"",""ios""]",Get raw data stream from AVFoundation Capture Session,3389
+6618587,13498896,5,0,2011-07-08T00:09:42.563,7,586084,[5150731],24,"["".net"",""sql-server-ce"",""ef-code-first"",""c#-4.0"",""entity-framework-4.1""]",Entity Framework Code-First: How to manually update the database?,32647
+6628883,6628934,4,4,2011-07-08T18:37:44.903,,750711,[2537568],1,"[""java"",""decompiling"",""decompiler""]",Techniques to prevent/slow decompiling,1178
+6652889,6654502,1,5,2011-07-11T15:51:32.5,,672232,[4093118],1,"[""django"",""date""]",Django - replacing year in DateTimeField,1689
+6659392,6667560,2,1,2011-07-12T04:08:50.537,1,815864,[1256562],3,"[""java"",""jsp"",""jsp-tags"",""spring-mvc""]",How to get url path from jsp in Spring MVC framework,6665
+6695970,6700421,1,2,2011-07-14T15:41:08.97,,844933,[2381572],0,"[""javascript"",""dojo"",""dom-events""]",How to trigger an event attached with dojoAttachEvent?,4181
+6707909,6799099,1,3,2011-07-15T13:43:46.383,,311363,[4956413],0,"[""ipad"",""uiviewanimation"",""ios""]","""modifying layer that is being finalized"" error when popping navigation controller",2214
+6730789,6730905,1,1,2011-07-18T09:17:13.03,,849703,[27222],-1,"[""html"",""php"",""dom""]",PHP get entire HTML DOM incl. tags,1357
+6742008,6742025,1,4,2011-07-19T03:30:31.82,5,617371,[5534759],30,"[""c++"",""iterator"",""stl"",""traits"",""iterator-traits""]",What are the typical use cases of an iterator_trait,7362
+6751641,6751658,3,3,2011-07-19T17:48:25.163,2,,[1073593],13,"[""javascript"",""jslint""]",window.location.href = window.location.href and JSLint,13432
+6762229,6769683,1,5,2011-07-20T12:53:14.047,1,85738,[5514499],1,"[""c#"",""customization"",""model"",""content-management-system"",""orchardcms""]",Displaying single Fields for a custom ContenType in Orchard,2685
+6771203,,0,0,2011-07-21T04:19:08.297,,40214,[3198134],1,"[""java"",""mysql"",""jdbc""]","How to set ""SQL_NO_CACHE"" default in a pooled mysql JDBC connection",391
+6795483,21052060,3,0,2011-07-22T20:04:31.973,68,511082,[19658145],71,"[""android"",""android-layout""]",Create blurry transparent background effect,92539
+6819730,,0,3,2011-07-25T17:02:20.773,,862008,[4441947],3,"[""python"",""memory"",""ram""]",Python returning MemoryError with plenty of free ram available,433
+6843527,6845015,4,0,2011-07-27T11:27:27.807,2,,[6434088],7,"[""java"",""comet"",""long-polling"",""websocket"",""playframework""]",Play framework longpolling in online game,3043
+6882301,6882331,6,6,2011-07-30T09:33:49.747,2,800816,[6883434],11,"[""unicode"",""utf-8"",""utf""]",What is the Best UTF,2112
+6900252,,1,3,2011-08-01T14:54:07.853,,859747,[5707340],3,"[""c#"",""vsto"",""visual-studio-2008""]",VSTO addin and runtime without administrator rights,2214
+6940831,6969614,2,1,2011-08-04T11:43:38.3,,,[6969801],3,"[""delphi"",""winapi"",""cursor""]",How can I save currently used cursor into the stream (resource or file)?,1125
+6952758,6952785,2,0,2011-08-05T07:16:02.793,,625454,[6943624],0,"[""java"",""date-format""]","How to parse ""Thu Aug 04 00:00:00 IST 2011"" to ""04-08-2011""?",16367
+6964819,6964957,3,1,2011-08-06T04:41:24.227,4,561309,[4957582],14,"[""c++"",""include"",""linker-errors""]",Function already defined error in C++,15167
+6975755,11507455,5,2,2011-08-07T21:00:16.887,5,844872,"[13685633,20440079]",11,"[""forms"",""jsf""]",Clear JSF form input values after submitting,53389
+6988487,6990428,8,9,2011-08-08T20:57:32.697,141,246095,[55367809],218,"[""c"",""unix"",""linux"",""memory-management"",""brk""]",What does the brk() system call do?,105191
+7007647,7007756,8,3,2011-08-10T08:06:34.567,3,82047,[6805975],9,"[""c#"",""exception-handling"",""try-catch"",""winforms""]",Removing excessive try-catch blocks,2260
+7014628,7015280,2,1,2011-08-10T16:48:53.97,4,863572,[19228406],1,"[""android""]",How to extract text and images from html?,4577
+7024931,,6,1,2011-08-11T11:19:53.183,1,850621,[5722758],1,"[""javascript"",""jquery""]",Ignore if it's already fading,207
+7036277,,3,2,2011-08-12T06:17:16.28,,891217,[407587],0,"[""python"",""optimization"",""hadoop"",""loops"",""edit""]",How to optimize edit distance code?,1999
+7054498,7054519,2,3,2011-08-14T01:53:26.09,1,435645,[3001243],1,"[""ruby-on-rails""]",What is mysql2?,1107
+7065815,7190634,1,5,2011-08-15T13:59:39.61,1,157080,[7067672],1,"[""mysql"",""load"",""auto-increment""]","MySql LOAD DATA is ignoring my Primary Key id, and using autoincrement instead",400
+7080298,7280608,2,8,2011-08-16T14:57:31.01,1,338297,"[742508,5032360]",1,"[""sql"",""postgresql""]",SQL for statement of accounts,1454
+7102606,7104177,2,2,2011-08-18T05:03:07.923,4,676226,[9752759],10,"[""c++"",""assembly"",""android"",""arm"",""android-ndk""]",SIGILL in Android NDK code,4285
+7113132,7165343,2,0,2011-08-18T19:38:41.167,,754049,[6410099],0,"[""printing"",""reportviewer"",""rdlc""]",ReportViewer: Print reports and allow users to edit report design,3069
+7135486,,2,5,2011-08-20T23:59:14.01,,904187,[2142120],11,"[""php"",""dom""]",Disable html entity encoding in PHP DOMDocument,5959
+7149561,,0,7,2011-08-22T15:11:03.627,,906157,[6160214],1,"[""git"",""version-control"",""github""]",GIT issue when merging changes from upstream,71
+7170943,7171188,4,0,2011-08-24T05:43:30.92,1,797374,[15926105],7,"[""html"",""javascript""]",How to hide javascript window.open address bar / location bar?,36138
+7183938,8782984,3,2,2011-08-25T00:45:31.91,1,858905,[2329580],2,"["".net"",""linq-to-sql""]",Linq to SQL - How to order numbers as strings?,1082
+7194506,7194533,7,6,2011-08-25T17:18:36.587,1,912668,[1182584],5,"[""php"",""mysql"",""random""]","Unique, unpredictable, 12 digit, integer id",7711
+7206542,7207709,3,3,2011-08-26T14:52:03.997,,587884,"[1512112,7189445]",2,"[""java"",""jfreechart"",""mouseevent"",""coordinate-systems""]",JFreeChart interactive chart editing: transforming mouse coordinates into series values,4841
+7229951,7230856,3,0,2011-08-29T12:15:49.187,2,769225,"[3835160,16332049]",4,"[""android"",""broadcastreceiver""]",How to raise an alert dialog from BroadcastReceiver class?,12002
+7239983,7240009,1,0,2011-08-30T07:31:44.14,,668272,[1387354],0,"["".net"",""asp.net"",""asp.net-mvc-3""]","MVC3 - Different device, different view, same controller",568
+7247520,7247665,4,3,2011-08-30T17:47:38.007,,118342,[5080824],2,"[""mysql"",""select"",""date"",""between""]",MySQL - BETWEEN will not select correct results,4827
+7259549,,0,9,2011-08-31T15:37:31.55,,918942,[3828961],4,"[""asp-classic"",""webmatrix"",""razor"",""asp.net-webpages""]",measuring performance ASP.NET Web Pages with Razor Syntax  vs. Classic ASP,650
+7265247,7270696,1,1,2011-09-01T01:24:31.187,2,462335,[6580656],6,"[""matlab"",""matrix"",""vectorization"",""matrix-multiplication""]",Tensor contraction in Matlab,9127
+7273986,7274024,5,0,2011-09-01T17:18:54.717,,149080,[7274295],1,"[""javascript"",""jquery"",""jquery-selectors""]","How to bind to all click events, check for an attribute.... Efficiently?",203
+7287942,7288316,1,6,2011-09-02T18:47:52.943,1,371739,"[2752206,4121567]",7,"[""api"",""scala"",""read-eval-print-loop""]",Is there an API for running Scala REPL programmatically?,1621
+7299455,7299557,2,3,2011-09-04T13:18:53.45,1,927545,[3334341],1,"[""jquery"",""jqgrid""]",reading server response on JQuery/jqGrid,6536
+7316202,7317628,1,0,2011-09-06T07:14:21.377,,885204,"[5128303,29827993]",0,"[""entity-framework""]",Automatic Model Validation When Generating the Models using Entity Framework Database First Approach,1357
+7336920,7344971,1,0,2011-09-07T15:59:08.387,2,774395,[21550238],10,"[""java"",""inheritance"",""binding"",""spring-mvc"",""jackson""]",Abstract classes and Spring MVC @ModelAttribute/@RequestParam,6217
+7342084,7342127,4,3,2011-09-08T01:01:27.263,6,933802,[1773875],35,"[""javascript"",""jquery"",""dom"",""high-load""]",jQuery/Javascript - How to wait for manipulated DOM to update before proceeding with function,30310
+7357675,,4,2,2011-09-09T05:56:41.64,1,844013,[2197620],10,"[""c#""]",How can i set the focus to application which is already in running state?,24106
+7368650,,0,5,2011-09-09T23:59:36.37,0,746741,[6622435],4,"[""c#"",""amazon"",""amazon-web-services""]",Amazon Product Advertisement API: Get results from UK site only,495
+7394447,9972266,21,10,2011-09-12T21:47:13.213,22,172350,[4535298],166,"[""android"",""avd"",""android-emulator""]","Android - Emulator in landscape mode, screen does not rotate",88214
+7418501,7418643,4,2,2011-09-14T15:00:05.143,,894955,[1910608],0,"[""android""]",Intent problem Android,141
+7437448,,2,3,2011-09-15T21:05:09.907,,218028,[7436731],1,"[""user-interface"",""mxml"",""flex4""]",Flex 4 reuse dialog box layout,358
+7449317,7451401,9,5,2011-09-16T19:11:07.783,13,801676,[20408110],64,"[""javascript"",""firebug"",""ipad"",""firebug-lite""]",Debugging Javascript on iPad,57716
+7466985,,1,0,2011-09-19T05:59:24.007,,952005,[4656841],1,"[""android"",""listview"",""header"",""android-fragments""]",Android - Header in ListView disappears?,2060
+7478047,7478683,4,0,2011-09-19T22:28:03.433,1,961832,[7480541],3,"[""html"",""css"",""dreamweaver""]",Adding text titles to inline <li> images,1545
+7489374,7489478,2,3,2011-09-20T17:41:26.003,,777294,[7492472],0,"[""arrays"",""attributes"",""json"",""element""]",Accessing Multipule Arrays From JSON,86
+7498638,7498943,1,0,2011-09-21T11:02:47.96,,924723,[1877644],0,"[""php"",""forms"",""upload"",""jquery"",""uploadify""]",jQuery Uploadify HTTP error (HTTP error: 302),7986
+7533391,,0,2,2011-09-23T18:35:19.19,1,961750,[7534141],1,"[""jasper-reports""]","Jasper Report shows message ""The Report is empty""",230
+7550079,7550101,1,1,2011-09-26T02:16:32.327,,964273,[3650125],4,"[""php"",""html-table""]",PHP parse HTML rows based on class name,5212
+7572459,7572565,1,1,2011-09-27T16:25:00.927,,786207,[11550301],1,"[""pdf"",""ajax"",""download"",""asp.net-mvc-3""]",Downloading PDF File with AJAX/MVC 3,6247
+7577368,7577383,4,0,2011-09-28T01:24:40.01,,848925,[3019696],1,"[""php"",""arrays"",""warnings""]",in_array function fails,814
+7596039,7597631,1,0,2011-09-29T10:35:54.687,0,161922,[1393202],3,"[""python"",""django"",""django-models""]",Copy the contents of an ImageField to a new file path in Django,3826
+7605904,7605979,3,0,2011-09-30T04:19:13.49,2,244061,[2729267],3,"[""java"",""android""]",How do you get a simple camera program working for Android?,17657
+7630518,7630527,3,1,2011-10-03T02:09:04.653,,848925,[2789703],1,"[""css"",""underline"",""text-decorations""]",I can not get rid of a underline text,8385
+7651564,7651640,1,0,2011-10-04T17:11:37.28,,348301,[2030487],1,"[""android"",""sd-card"",""media-player""]",Android : How to invoke media player,883
+7658419,,0,0,2011-10-05T08:10:26.267,0,932381,[7650275],0,"[""sqlite"",""iphone""]",Update statement not working properly,108
+7672378,,0,4,2011-10-06T09:21:35.073,,432657,[198982],0,"[""android"",""android-sensors""]",Fire onSensorChanged only if there is a motion,593
+7679398,,2,0,2011-10-06T19:24:10.423,,982863,[1882601],1,"[""routing"",""ihttpmodule"",""asp.net-mvc-2""]","ASP.NET MVC extract controller, action and value from URL",808
+7714709,7769129,8,1,2011-10-10T14:59:44.12,4,544822,[37830871],8,"[""matlab"",""command-line"",""batch-file""]",Writing log statements to standard output with Matlab,5061
+7725063,7725266,4,5,2011-10-11T11:07:58.137,,900299,"[639592,1221512,2869222]",-1,"[""java""]",Java Interfaces and Abstract class,3146
+7740043,7740398,1,0,2011-10-12T12:26:13.777,,707729,[6383129],0,"[""ruby"",""google-maps"",""ruby-on-rails"",""ruby-on-rails-3"",""gmaps4rails""]",How to initialize at js new map in gmaps4rails 1.3.0,373
+7760663,,2,0,2011-10-13T21:25:47.727,,775308,[3457620],1,"[""javascript"",""facebook""]",Javascript redirect within Facebook app iframe,5565
+7782726,,0,7,2011-10-16T06:19:07.82,,413843,[7529793],0,"[""php"",""email"",""squirrelmail""]",Sending using SquirrelMail instead of mail() in PHP,98
+7807144,,4,1,2011-10-18T12:23:50.32,0,975290,[7763841],0,"[""java"",""android""]","How can I download image for ImageView in Java, Android?",4647
+7831273,,2,0,2011-10-20T04:48:31.563,1,986916,[2258830],1,"[""c#"",""wpf"",""dispatcher"",""backgroundworker""]",Methods to update GUI in WPF,1850
+7849000,23295591,3,8,2011-10-21T11:52:00.093,0,924820,[7422859],9,"[""asp.net-mvc"",""c#-4.0""]",MemoryCache empty just after adding an object,5085
+7866206,7866330,1,14,2011-10-23T12:43:59.003,4,342235,[510462],15,"[""java"",""nanotime""]",Why I get a negative elapsed time using System.nanoTime()?,4043
+7881382,7969469,1,4,2011-10-24T20:11:40.827,,1009758,[5328072],1,"[""jquery"",""jquery-plugins"",""jqgrid""]",Jqgrid search toolbar filter unique drop lists with Json,2974
+7904281,7904507,3,1,2011-10-26T14:38:36.607,1,420001,[41860785],4,"[""c++"",""opengl"",""glut"",""trigonometry""]",OpenGL - Rotate a 'Curve' About the Y-Axis,5869
+7915140,7915183,3,0,2011-10-27T11:20:45.303,4,707381,[939032],24,"[""jquery""]",Callback to .delay(),24267
+7927854,7943890,14,1,2011-10-28T10:05:43.99,98,566360,"[4359131,4486543]",194,"[""mysql"",""macos"",""command-line"",""osx-lion""]",How to start MySQL server from command line on Mac OS Lion?,466433
+7944418,7944566,2,3,2011-10-30T10:35:10.94,,459923,[981378],0,"[""ruby-on-rails"",""image"",""imagemagick"",""image-recognition""]",Automatically blur numbers and letters using ruby or imagemagick?,1836
+7958803,7959132,1,14,2011-10-31T19:40:19.74,2,1003464,[922132],8,"[""c#"",""windows"",""windows-update"",""c#-4.0""]",Download Windows Updates Using C#,3011
+7976313,7976617,3,2,2011-11-02T05:49:28.757,,1020415,[18828377],1,"[""java"",""split"",""biginteger""]","Split BigInteger, Count Digits?",3015
+7989258,7989403,7,0,2011-11-03T01:14:08.59,4,104200,[692064],12,"[""keychain"",""ios""]",iOS Keychain SecItemAdd returns -25243,16849
+7999848,8000185,2,2,2011-11-03T18:09:37.717,,697521,[4132699],2,"[""java"",""android"",""dialog"",""subactivity"",""android-activity""]","how to show a ""window/subactivity/dialog"" on top of an Activity but keeping the focus in the Activity",654
+8011164,,3,0,2011-11-04T14:54:16.067,,27657,"[484278,2431128]",0,"["".net"",""c#"",""windows-7""]",log off a specific user with C# for Windows 7 Home Premium?,977
+8030536,8030702,6,0,2011-11-06T21:30:20.09,3,228173,[16741400],14,"[""c++"",""unit-testing"",""eclipse-cdt""]",JUnit-like test framework for C++ in Eclipse CDT,15417
+8050775,8054179,2,1,2011-11-08T13:01:36.977,16,2205178,[6234405],38,"[""python"",""debugging""]",Using python's logging module to log all exceptions and errors,28975
+8063796,8063858,2,0,2011-11-09T10:42:05.457,,533399,[579331],0,"[""php""]","PHP Call a function with default parameter, but in the middle of parameter list?",359
+8083410,,16,4,2011-11-10T17:04:40.043,41,424566,[10615828],211,"[""timezone"",""node.js""]",How can I set the default timezone in node.js?,248244
+8083430,8083507,3,0,2011-11-10T17:06:25.97,11,317785,[2117290],85,"[""html"",""css""]",How to change the font and font size of an HTML input tag?,339897
+8087838,,0,2,2011-11-10T23:25:11.977,,1040766,[5006588],3,"[""javascript"",""xss"",""ajax""]",Making AJAX calls from customer site to my own server over HTTPS?,39
+8095861,8095964,4,5,2011-11-11T15:05:36.373,,612920,[208835],3,"[""c"",""closures"",""function-pointers""]",Why is there a compile error in this code?,150
+8108466,8108482,5,1,2011-11-12T23:50:53.037,,65387,[3532870],1,"[""html"",""css"",""image"",""hyperlink""]",How do I get a link to properly contain an image?,102
+8122298,,5,2,2011-11-14T13:30:32.95,7,966540,[6556802],9,"[""embed"",""youtube"",""video"",""android"",""android-webview""]",Youtube embed videos not working in webview. What's wrong with this code?,24608
+8134336,16714940,3,1,2011-11-15T09:48:24.433,7,536148,"[2646028,6920137]",14,"[""android"",""android-viewpager""]",Disabling & Enabling Paging In ViewPager in Android,18802
+8149397,,2,2,2011-11-16T09:32:22.42,2,444129,[5592215],2,"[""oop"",""orm"",""design-patterns""]",Is ORM an Anti-Pattern?,1151
+8175653,8175718,3,0,2011-11-17T23:04:56.747,1,78613,[34105205],17,"[""makefile""]",Marking a makefile dependency as optional or otherwise unimportant,6354
+8182620,,3,2,2011-11-18T12:44:59.22,2,811785,[165779],14,"[""forms"",""rest"",""asp.net-mvc"",""http-put"",""asp.net-mvc-3""]",PUT or DELETE verb in ASP.NET MVC on HTML form,14563
+8187821,8187856,3,1,2011-11-18T19:13:48.74,2,1018733,"[3454774,3672272,8828153]",19,"[""git""]",A way to access Git without installing client software? (Web access available?),35637
+8194195,8194537,1,0,2011-11-19T12:57:34.953,,972789,[5381738],0,"[""pluralize"",""singular"",""ruby-on-rails-3""]",rails singularize to a / an,978
+8211316,8241751,1,0,2011-11-21T11:47:38.62,,1021897,[2061381],0,"[""php"",""multilingual"",""localization"",""zen-cart""]",Multi language display in zencart based on location,1072
+8214500,,1,0,2011-11-21T15:51:45.83,,1054677,[504551],0,"[""sql"",""vb.net"",""combobox""]",Refresh/update databound ComboBox immediately,616
+8235510,8235643,2,1,2011-11-22T23:45:18.613,,343235,[1734644],2,"[""c#"",""delphi"",""interop""]","Convert C# code to Delphi, what is the equivalent of SafeWaitHandle?",1016
+8254654,,7,2,2011-11-24T09:20:43.277,14,1023670,[5550670],64,"[""android"",""bundle"",""parcelable""]",How write Java.util.Map into parcel in a smart way?,37073
+8263071,8263106,4,0,2011-11-24T22:31:00.727,1,972202,[1700870],0,"[""javascript""]",How to get the full html string including the selected element itself?,1427
+8287329,8289732,2,0,2011-11-27T17:09:28.377,,418332,[6993325],1,"[""iphone"",""objective-c"",""uniqueidentifier"",""cocos2d-iphone""]","uniqueIdentifier deprecated, example from Cocos2d",3929
+8308870,8309381,2,2,2011-11-29T10:00:38.697,2,880472,[328343],1,"[""c#"",""dll"",""zip""]",Unzip one File from Directory,1306
+8326118,,3,2,2011-11-30T12:40:42.543,,282328,[4664008],3,"["".net"",""c#"",""data-binding"",""wpf"",""xaml""]",How to bind Grid row height?,6141
+8334268,8334710,2,0,2011-11-30T23:02:50.093,,307072,[3308846],2,"[""jquery"",""json"",""asp.net-mvc-3"",""knockout.js""]",Asp MVC 3 json complex object not initialize properties,898
+8337635,8913045,5,3,2011-12-01T07:01:37.897,24,27404,"[7007660,14370632]",51,"[""core-data"",""objective-c""]","NSManagedObjectContext: exception breakpoint stops at save: method, but no log/crash/error",8708
+8358563,8360052,1,1,2011-12-02T15:24:44.57,2,306918,[1344066],1,"["".net"",""c#"",""entity-framework"",""change-tracking""]",How to detect individual property changes for detached entities on update?,666
+8375510,,0,2,2011-12-04T13:10:27.89,,1036032,[2161613],2,"[""java"",""call-graph""]",How to generate a static call graph for Java?,1417
+8402601,8414302,2,3,2011-12-06T15:41:09.713,,672827,[483787],2,"[""sql-server"",""ado.net"",""full-text-search"",""stored-procedures""]",SQL Full Text Query - behaving differently depending on how I call a stored procedure,447
+8411664,8412169,1,4,2011-12-07T07:13:36.553,1,989421,[49008514],3,"[""sql-server-2005""]",Calculate total of total column in SQL Server 2005,4166
+8430190,8431158,3,3,2011-12-08T11:21:08.89,1,521070,[8280649],1,"[""algorithm"",""complexity-theory"",""reduction"",""np""]",Complexity of an old Top Coder riddle: Making a number by inserting +,400
+8446175,,0,3,2011-12-09T13:29:59.183,1,1015493,[4746299],2,"[""html"",""jquery"",""xpath"",""jquery-selectors""]",A jquery script to find xpath location of clicked element,1481
+8478846,8490159,1,10,2011-12-12T18:12:54.707,3,836749,[8504728],4,"[""delphi"",""winapi"",""notifications"",""tooltip""]",How to trap the TTN_LINKCLICK notification?,785
+8504897,,4,0,2011-12-14T12:59:35.07,,539783,[8234099],4,"[""vim""]",How to reinstall vim?,9921
+8523677,,4,2,2011-12-15T16:51:34.327,1,957628,[1609215],5,"["".net"",""linq"",""generics""]",LINQ : Generics with IQueryable,739
+8536961,,1,1,2011-12-16T16:16:01.423,,216761,[8509332],1,"[""php"",""mamp"",""youtube-api"",""gdata"",""zend-gdata""]",YouTube Data API for PHP hanging locally,289
+8545042,,0,0,2011-12-17T13:24:21.023,,742402,[8477443],1,"[""javascript"",""jquery"",""jqgrid""]",How to synchronize jqgrid inline navigator and formatter actions buttons and end inline edit,611
+8557244,8557443,1,0,2011-12-19T04:53:53.643,,832693,[8557106],3,"[""arrays"",""struct"",""fortran""]",Create array with elements of different type in Fortran,4333
+8590098,8590113,2,2,2011-12-21T12:51:45.93,29,325192,[9208091],267,"[""ruby"",""file""]",How to check for file existence,223658
+8596580,8596659,2,0,2011-12-21T21:24:03.36,,639609,[5037580],1,"[""model-binding"",""asp.net-mvc-3""]",default model binding does not work in case when model contains a model,1138
+8612999,,1,1,2011-12-23T06:38:15.507,,1072496,[725679],0,"[""php"",""mysqli""]",Call to a member function prepare() on a non-object - Prepared Statements in MySQLi & PHP,586
+8621016,8621072,4,1,2011-12-23T22:03:22.027,3,28045,[3833324],12,"[""php"",""serialization"",""codeigniter""]",What does it mean to serialize data or an object?,13072
+8639088,8709416,7,0,2011-12-26T21:00:56.797,9,929377,[8099358],10,"[""sublimetext"",""emmet""]",How do I activate the Zen coding key bindings in Sublime Text 2?,20807
+8646247,8651611,2,5,2011-12-27T15:22:41.383,2,829568,[7652799],8,"[""c++"",""haskell"",""ghc"",""ghci"",""hugs""]",Writing Haskell interpreter in C++ (using ghc or hugs as library),1585
+8662402,8663504,1,0,2011-12-28T23:22:51.713,,411046,[333664],1,"[""html"",""javascript"",""python"",""google-maps""]",Update google map position based on gps coords,2122
+8677953,,0,5,2011-12-30T09:20:38.773,,979775,[584551],1,"[""wpf"",""documentviewer"",""flowdocument"",""print-preview""]",Print Preview in wpf,1233
+8705215,8705291,5,8,2012-01-02T20:51:04.517,1,1119700,[3192871],3,"[""c++""]","Get the ""size"" (length) of a C++ function?",3657
+8712652,8712727,6,0,2012-01-03T12:57:43.02,20,1086247,[32554925],27,"[""android"",""angle"",""rotation"",""android-canvas""]",Rotating Image on A canvas in android,61725
+8726743,,2,3,2012-01-04T12:17:56.523,1,1083604,[7942520],0,"[""mysql"",""database"",""postgresql"",""database-migration""]","How to accomplish ""MySQL cross database reference"" with PostgreSQL",1170
+8734594,,0,4,2012-01-04T21:53:29.123,,1046671,[8719641],2,"[""javascript"",""jquery""]",Set a timer to a print window,158
+8748114,8748271,1,1,2012-01-05T18:55:57.057,,1132862,[719877],-2,"[""c++"",""objective-c"",""new-operator"",""delete-operator""]",New and delete command of c++ in obj-c,1150
+8761039,,2,0,2012-01-06T16:28:06.4,,489041,[5425228],2,"["".net"",""vb.net"",""polymorphism""]",Polymorphism in VB.Net when dealing with Generics,474
+8790621,8790956,4,2,2012-01-09T15:17:11.757,2,1019804,[255312],1,"[""php"",""variables""]",converting variables' name to string,4941
+8801621,8801794,2,0,2012-01-10T10:17:42.273,,1103509,[8741037],1,"[""objective-c"",""uiviewcontroller"",""uiview""]",How to PUSH a new view after receiving some response in Objective C?,197
+8823597,,2,8,2012-01-11T17:14:55.463,3,333390,[327718],3,"[""c++"",""windows"",""boost"",""hard-drive""]",Listing physical drives installed on my computer,12996
+8831587,8831912,2,3,2012-01-12T07:37:27.363,,988902,[3907785],2,"[""php"",""imagemagick"",""dpi""]",Change in dpi using imagick library in php,3853
+8886666,9109255,1,0,2012-01-16T21:41:24.45,1,88829,[8505440],7,"[""c++"",""macos"",""ipc""]",Mac OS X equivalent of CreateEvent() with named object for interprocess communication?,2342
+8900974,,1,9,2012-01-17T20:05:09.66,1,71200,[8864595],2,"[""delphi"",""registry"",""firebird"",""32bit-64bit""]",Delphi 32 bit app Can't find registry key that was written by 32 bit installer in Wow64 in Windows 7,1913
+8916539,,6,3,2012-01-18T19:56:57.737,25,544050,"[2070359,8914961]",33,"[""language-agnostic"",""algorithm"",""np""]",Sum-subset with a fixed subset size,19853
+8936067,8936098,2,2,2012-01-20T02:24:12.653,,1159726,[4191687],1,"[""java"",""mode""]",Finding the mode of an array,1295
+8953317,,1,0,2012-01-21T13:25:15.273,,525649,[6004060],2,"[""javascript"",""php"",""ajax"",""template-engine"",""zend-view""]",Template engine for PHP + JS but,349
+8961204,,0,3,2012-01-22T12:54:20.867,,1163432,[4961770],0,"[""uipickerview"",""ios""]","iOS UIPickerView Load Data, Error",391
+8985342,,1,0,2012-01-24T10:37:17.34,,1051768,[8168873],2,"[""mfc"",""visual-studio-2008"",""visual-c++""]",Deserialization stops working if I load MFC DLL from regular DLL,1039
+9003250,,2,3,2012-01-25T13:08:40.033,,651430,"[8756938,8876885]",0,"[""android"",""android-activity""]",How to know which activity is presently opened?,129
+9018449,,1,0,2012-01-26T13:02:08.687,5,955679,[6448705],54,"[""haskell"",""llvm""]",Binding FFI and DSL,1013
+9030315,9030541,2,3,2012-01-27T07:46:32.933,1,123011,[8079698],2,"[""visual-studio"",""windows-phone-7""]",How to create multiple applications from one solution in Visual Studio?,627
+9042542,,6,0,2012-01-28T02:53:14.67,51,82320,[5229116],168,"[""windows"",""symlink"",""ntfs""]",What is the difference between NTFS Junction Points and Symbolic Links?,98628
+9049506,,1,0,2012-01-28T23:23:36.14,1,850984,[5952602],3,"[""c++"",""linux"",""unordered-map"",""hashmap""]",Errors with unordered_map in C++?,3562
+9064077,9064512,1,1,2012-01-30T12:45:07.59,2,909023,[664930],0,"[""objective-c"",""uinavigationbar"",""uibarbuttonitem"",""tintcolor""]",UINavigationBar BackButton custom TintColor,2583
+9108060,9120262,1,0,2012-02-02T06:28:45.523,0,665327,[8876269],1,"[""python"",""qstring"",""pyqt"",""python-sip""]",PyQt - how to replace QString with sip API 2,2134
+9124554,9124625,2,0,2012-02-03T06:26:32.857,,50831,[59166613],4,"[""java"",""base64"",""encoding"",""mime"",""jakarta-mail""]",JavaMail base64 encoding,10491
+9133696,9133865,2,1,2012-02-03T18:32:55.247,2,784277,[1019876],16,"[""cookies"",""httpcookie"",""setcookie""]",A cookie without a domain?,16963
+9148705,17271988,2,1,2012-02-05T11:05:26.583,,109392,[1189256],1,"[""visual-studio-2010"",""web-setup-project"",""visual-studio""]",Is it possible to filter on files in sub folders in ContentFiles for a web setup project?,623
+9156806,,4,1,2012-02-06T07:20:01.083,,962957,[6774143],0,"[""html"",""php"",""forms"",""ajax"",""jquery""]",Upload Image as soon as user browse their Image from folder,251
+9168674,,1,2,2012-02-06T23:03:52.273,,1193456,[5947157],1,"[""pdf"",""solr"",""solr-cell""]",No results when searching indexed PDF with Solr Cell,720
+9193245,,2,3,2012-02-08T12:24:07.603,2,1187779,[6825226],3,"["".net"",""android"",""soap"",""web-services"",""ksoap2""]",Authentication in KSOAP2 request to .NET webservice in Android,4712
+9217317,,2,3,2012-02-09T19:21:40.617,,1200432,[4660142],2,"[""asp.net-mvc-3"",""drop-down-menu""]",DropDownListFor Object reference not set to an instance of an object,4927
+9229645,9229932,54,12,2012-02-10T14:53:22.713,626,814908,[1737388],1848,"[""javascript"",""arrays"",""unique"",""duplicates""]",Remove duplicate values from JS array,2202890
+9247730,9404341,2,0,2012-02-12T09:26:26.007,6,267197,[32677605],8,"[""jaxb"",""xjc"",""sun-codemodel"",""jcodemodel""]",What is the role of ClassOutline / JClass / CClass in CodeModel?,1652
+9258293,9258434,8,14,2012-02-13T09:38:39.327,1,243153,[5047349],5,"[""c#"",""linq""]",How to properly check IEnumerable for existing results,663
+9272896,9274047,2,0,2012-02-14T06:55:24.717,,972670,[5854043],0,"[""entity-framework"",""entity-framework-4""]",Updating Columns with Foreign Key takes more than 1 minute first time in Entity Framework,96
+9289084,9289913,2,2,2012-02-15T06:50:23.11,,922584,[1579560],3,"[""java"",""spring"",""dao"",""jpa"",""aspects""]",Adding an aspect to catch an exception and return null instead,440
+9304300,,0,3,2012-02-16T01:36:11.513,,457541,[8160710],0,"[""gson"",""deserialization""]",gson deserialization to dictionary,488
+9320344,9320630,1,5,2012-02-16T22:51:16.91,,727961,[3556346],0,"[""c++"",""class"",""vector""]",Inititalze vector of custom class?,1240
+9323279,16551339,10,2,2012-02-17T05:18:51.79,21,309830,[6796299],74,"[""user-interface"",""android"",""android-fragments"",""android-viewpager""]",How to test if a fragment view is visible to the user?,59810
